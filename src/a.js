@@ -1,1 +1,1 @@
-module.exports = 'xiongwei'
+module.exports = '我是a.js'
